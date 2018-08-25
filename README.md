@@ -1,6 +1,6 @@
 # James Skin Guide
 
-![](https://img.shields.io/badge/license-CC%20BY--SA%204.0-brightgreen.svg?longCache=true&style=flat-square) ![](https://img.shields.io/badge/based-Markdown-red.svg?longCache=true&style=flat-square) ![](https://img.shields.io/badge/for-James%20Wiki%20Engine-blue.svg?longCache=true&style=flat-square)
+[![](https://img.shields.io/badge/license-CC%20BY--SA%204.0-brightgreen.svg?longCache=true&style=flat-square)](http://creativecommons.org/licenses/by-sa/4.0/) ![](https://img.shields.io/badge/based-Markdown-red.svg?longCache=true&style=flat-square) ![](https://img.shields.io/badge/for-James%20Wiki%20Engine-blue.svg?longCache=true&style=flat-square)
 
 
 위키 엔진 James 의 스킨을 제작하는 방법, 포함되어야 할 것들을 제공하는 레포지토리입니다.
