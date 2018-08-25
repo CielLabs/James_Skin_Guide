@@ -1,4 +1,8 @@
 # James Skin Guide
+
+![](https://img.shields.io/badge/license-CC%20BY--SA%204.0-brightgreen.svg?longCache=true&style=flat-square) ![](https://img.shields.io/badge/based-Markdown-red.svg?longCache=true&style=flat-square) ![](https://img.shields.io/badge/for-James%20Wiki%20Engine-blue.svg?longCache=true&style=flat-square)
+
+
 위키 엔진 James 의 스킨을 제작하는 방법, 포함되어야 할 것들을 제공하는 레포지토리입니다.
 
 > [!] 현재 James 의 개발 과정은 매우 활발히 진행되고 있어, 스킨 구조나 뷰 구조가 자주 변경되거나 변수가 수정될 수 있습니다. 개발 중인 James 의 특성상 구 스킨들을 위한 호환성를 고려하지 않고 개발이 진행되고 있습니다.
